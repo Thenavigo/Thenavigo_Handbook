@@ -73,7 +73,7 @@ Building the Metaverse trilogy.
 
 ## Our Story
 
-Let me start my story by telling you where I am today: I’m on a mission to unlock the potential of people and ideas. And I do it by helping people with a skill we use every day, but neglect.
+-> Let me start my story by telling you where I am today: I’m on a mission to unlock the potential of people and ideas. And I do it by helping people with a skill we use every day, but neglect.
 
 Communication.
 
