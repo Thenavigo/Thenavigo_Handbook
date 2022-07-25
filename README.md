@@ -47,6 +47,8 @@ I'm so grateful that you're here and that you've decided to commit a season of y
 
 Hello, nice to meet you. I'm <b>Patrick Biyaga</b>. I’m a Cybersecurity and Network Solutions Engineer, a product person by conviction, and a generalist at heart. I love complex issues and helping people navigate them.
 
+<br />
+
 ![Preview](https://github.com/Thenavigo/Thenavigo_Handbook/blob/main/story.jpeg/)
 
 
