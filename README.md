@@ -57,7 +57,7 @@ Hello, nice to meet you. I'm <b>Patrick Biyaga</b>. I’m a Cybersecurity and Ne
 
 We're fortunate to have the financial support from the following (repeat!) venture firms:
 
-Project supported by - <b>Patrick Biyaga</b>
+Project supported by - [@patrickbiyaga](https://twitter.com/patrickbiyaga)
 
 <!-- 1. ZZZZZZZZZZZZ — [X](#) -->
 
