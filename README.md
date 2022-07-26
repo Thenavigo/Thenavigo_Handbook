@@ -12,7 +12,7 @@ It's a work-in-progress, something designed to be touched by anyone in our commu
 
 I'm so grateful that you're here and that you've decided to commit a season of your life helping to build _meaningful_ and _impactful_ software for the Thenavigo community! You're here because success isn't possible without you.
 
-[Feel free to [email me](mailto:biyagapatrick@gmail.com) at any time!]
+[Feel free to [email me](mailto:contact@thenavigo.com) at any time!]
 
 
 
@@ -54,8 +54,6 @@ Hello, nice to meet you. I'm <b>Patrick Biyaga</b>. I’m a Cybersecurity and Ne
 
 
 #### Venture Capital Firms
-
-We're fortunate to have the financial support from the following (repeat!) venture firms:
 
 Project supported by - [@patrickbiyaga](https://twitter.com/patrickbiyaga)
 
